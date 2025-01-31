@@ -16,7 +16,7 @@ EasyLOB is a Data-Driven Design Archetype for developing Web based .NET Line of 
 
 ### Versions & GitHub Repositories
 
-![](https://github.com/EasyLOB/EasyLOB/Media/EasyLOB.png)
+![](https://github.com/EasyLOB/EasyLOB-4/wiki/Media/EasyLOB.png)
 
 The latest EasyLOB is [EasyLOB 4](https://github.com/EasyLOB/EasyLOB-4), below you find a comparison with older versions. Documentation is under-construction, but older EasyLOB Wikis are a good source of information.
 
