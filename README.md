@@ -3,7 +3,7 @@
 ## Contents
 
 1. [What is EasyLOB?](#what-is-easylob)
-1. [GitHub Repositories](#github-repositories)
+1. [Versions & GitHub Repositories](#versions--github-repositories)
 1. [Features](#features)
 1. [What kind of problems does EasyLOB solve?](#what-kind-of-problems-does-easylob-solve)
 1. [Open-Source MIT License](#open-source-mit-license)
