@@ -1,4 +1,4 @@
-![](https://github.com/EasyLOB/EasyLOB-1/wiki/Media/EasyLOB.Blue.512.121.png)
+![](https://github.com/EasyLOB/EasyLOB/Media/EasyLOB.Blue.512.121.png)
 
 ## Contents
 
